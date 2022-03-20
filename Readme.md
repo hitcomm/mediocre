@@ -34,4 +34,5 @@ If you are are lacking any of these i cant and wont help you.
 So lets start with the installation steps :
 Move the "Medicore" folder into your "C:/" harddrive.The path to the Offsets file needs to be "C:\Mediocre".
 
+![Uploading 4e1Mlt1.png…]()
 
